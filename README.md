@@ -10,7 +10,7 @@
 
 ## 注册账号：第一次接触搬瓦工要做的事
 
-打开浏览器（Chrome、Firefox都行），输入 www.bwh88.net 或者直接点击链接进入官网。进去之后，你会看到页面顶部有个"Register"按钮，点它。
+打开浏览器（Chrome、Firefox都行），输入 [www.bandwagonhost.com](https://bandwagonhost.com/aff.php?aff=79616) 或者直接点击链接进入官网。进去之后，你会看到页面顶部有个"Register"按钮，点它。
 
 ![搬瓦工官网首页注册入口](image/5882100598187.webp)
 
